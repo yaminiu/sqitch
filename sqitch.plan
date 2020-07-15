@@ -1,3 +1,4 @@
 %syntax-version=1.0.0
 %project=infodb
 
+appuser 2020-07-15T01:59:26Z Ubuntu <ubuntu@jenkins> #    appuser\n     deploy/appuser.sql\n     revert/appuser.sql\n     verify/appuser.sql\n     
